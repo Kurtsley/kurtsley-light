@@ -3,7 +3,7 @@
     "displayName": "Kurtsley Light",
     "publisher": "Kurtsley",
     "description": "A warmer light theme for VS Code",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": "https://github.com/Kurtsley/kurtsley-light",
     "engines": {
         "vscode": "^1.63.0"
