@@ -16,9 +16,10 @@ A combination of:
 <br>
 
 ### Python example
-![Example python file]
+![Python example](python2.png)
+
 ### Rust example
-placeholder
+![Rust example](rust3.png)
 
 <br>
 
