@@ -2,7 +2,7 @@
     "name": "kurtsley-light",
     "displayName": "Kurtsley Light",
     "publisher": "Kurtsley",
-    "description": "",
+    "description": "A warmer light theme for VS Code",
     "version": "0.0.1",
     "repository": "https://github.com/Kurtsley/kurtsley-light",
     "engines": {
@@ -10,6 +10,9 @@
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "light theme"
     ],
     "contributes": {
         "themes": [
