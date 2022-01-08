@@ -18,6 +18,7 @@
         "color": "#f3eee6",
         "theme": "light"
     },
+    "icon": "hamburger.resized_done.png",
     "contributes": {
         "themes": [
             {
